@@ -1,2 +1,4 @@
-// Tidak diperlukan JavaScript untuk fungsi dasar
-console.log('Halaman Upload Minimalis dimuat.');
+// Placeholder JS (jika nanti perlu interaksi)
+document.addEventListener("DOMContentLoaded", () => {
+  console.log("Halaman upload siap");
+});
