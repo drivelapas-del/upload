@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Dokumen</title>
+    <link rel="stylesheet" href="style-minimal.css">
+</head>
+<body>
+    <div class="card">
+        <div class="header">
+            <h1>📁 Upload Dokumen</h1>
+            <p class="subtitle">Formulir upload yang aman dan terenkripsi</p>
+        </div>
+        <iframe 
+            src="https://script.google.com/macros/s/AKfycbxuPjNSMSC7b7bMm5-rZ1GR_G1Tp0gNfHKLCBDi7vKPEw36eOB9aXXTGPIiFKEMeWAV/exec" 
+            title="Upload Form">
+        </iframe>
+    </div>
+    <div class="footer">
+        <p>© 2024 Sistem Upload • v1.0</p>
+    </div>
+</body>
+</html>
